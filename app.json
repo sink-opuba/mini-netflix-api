@@ -1,0 +1,6 @@
+{
+  "name": "Mini-netflix API",
+  "description": "A simple API built in Node and Express for the mini-netflix app hosted on Heroku",
+  "repository": "https://github.com/sink-opuba/mini-netflix-api",
+  "keywords": ["node", "express", "static"]
+}
